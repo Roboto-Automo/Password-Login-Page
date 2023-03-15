@@ -1,6 +1,6 @@
 # Password-Login-Page
 
-##Simple password login page for Html and Javascript.  
+## Simple password login page for Html and Javascript.  
 
 * The prompt accepts 3 incorrect attempts before login fails.  
 
